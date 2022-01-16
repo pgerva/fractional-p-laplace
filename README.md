@@ -28,8 +28,8 @@ in Reference [1].
 ## List of files
 
 <b>fractional_plaplace_integral.m</b> is a script that computes and plot the
-values of $`I^{(s,p)}(x)`$ for $`p=3`$ and $`s\in\{2/15, 0.2 , 0.4, 0.5,
-7/12\}`$ at 99 points in $`(-1,1)`$.
+values of `I^{(s,p)}(x)` for `p=3` and `s`  in `{2/15, 0.2 , 0.4, 0.5,
+7/12}` at 99 points in `(-1,1)`.
 
 The values of $`s`$ and $`p`$ can be modified by editing the script.
 
