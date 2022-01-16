@@ -1,4 +1,4 @@
-# fractional p-Laplace calculator
+# Fractional p-Laplace calculator
 
 This repository contains a MATLAB script, a MATALB app and the related
 functions to numerically compute 
