@@ -4,7 +4,7 @@ This repository contains a MATLAB script, a MATALB app and the related
 functions to numerically compute 
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;I^{(s,p)}(x)=\lim_{\varepsilon \to 0}\int_{(B_\varepsilon(x))^c} \frac{|(u(x)-u(y)|^{p-2}(u(x)-u(y))}{|x-y|^{1+sp}dy" title="I^{(s,p)}(x)=\lim_{\varepsilon \to 0}\int_{(B_\varepsilon(x))^c} \frac{|(u(x)-u(y)|^{p-2}(u(x)-u(y))}{|x-y|^{1+sp}dy"/>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;I^{(s,p)}(x)=\lim_{\varepsilon \to 0}\int_{(B_\varepsilon(x))^c} \frac{|(u(x)-u(y)|^{p-2}(u(x)-u(y))}{|x-y|^{1+sp}}dy"/>
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 and
