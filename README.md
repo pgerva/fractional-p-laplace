@@ -6,7 +6,8 @@ functions to numerically compute
 ```math
 I^{(s,p)}(x)=\lim_{\varepsilon \to 0}\int_{(B_\varepsilon(x))^c} \frac{|(u(x)-u(y)|^{p-2}(u(x)-u(y))}{|x-y|^{1+sp}dy
 ```
- 
+![equation](http://www.sciweavers.org/tex2img.php?eq=
+I%5E%7B(s%2Cp)%7D(x)%3D%5Clim_%7B%5Cvarepsilon%20%5Cto%200%7D%5Cint_%7B(B_%5Cvarepsilon(x))%5Ec%7D%20%5Cfrac%7B%7C(u(x)-u(y)%7C%5E%7Bp-2%7D(u(x)-u(y))%7D%7B%7Cx-y%7C%5E%7B1%2Bsp%7Ddy&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 and
 ```math
 (-\Delta_p)^su(x)=C_{s,p} I^{(s,p)}(x)
