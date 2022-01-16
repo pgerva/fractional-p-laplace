@@ -6,19 +6,15 @@ functions to numerically compute
 
 <img src="https://latex.codecogs.com/svg.image?I^{(s,p)}(x)=\lim_{\varepsilon&space;\to&space;0}\int_{(B_\varepsilon(x))^c}&space;\frac{|(u(x)-u(y)|^{p-2}(u(x)-u(y))}{|x-y|^{1&plus;sp}}dy" title="I^{(s,p)}(x)=\lim_{\varepsilon \to 0}\int_{(B_\varepsilon(x))^c} \frac{|(u(x)-u(y)|^{p-2}(u(x)-u(y))}{|x-y|^{1+sp}}dy" />
 and
+<img src="https://latex.codecogs.com/svg.image?(-\Delta_p)^su(x)=C_{s,p}&space;I^{(s,p)}(x)" title="(-\Delta_p)^su(x)=C_{s,p} I^{(s,p)}(x)" />
 
-```math
-(-\Delta_p)^su(x)=C_{s,p} I^{(s,p)}(x)
-```
 with:
-```math
-C_{s,p}=\frac{\frac{sp}{2}(1-s)2^{2s-1}\Gamma\left(\frac{N+sp}{2}\right)}{\Gamma\left(\frac{p+1}{2}\right)\Gamma(2-s)},
-```
+<img src="https://latex.codecogs.com/svg.image?C_{s,p}=\frac{\frac{sp}{2}(1-s)2^{2s-1}\Gamma\left(\frac{N&plus;sp}{2}\right)}{\Gamma\left(\frac{p&plus;1}{2}\right)\Gamma(2-s)}," title="C_{s,p}=\frac{\frac{sp}{2}(1-s)2^{2s-1}\Gamma\left(\frac{N+sp}{2}\right)}{\Gamma\left(\frac{p+1}{2}\right)\Gamma(2-s)}," />
 
-```math
-u(x)=(1-|x|^m)_+^s, \qquad m=\frac{p}{p-1}
-```
-for any $`p>1`$, $`s\in (0,1)`$ and $`x\in (-1,1)`$. 
+<img src="https://latex.codecogs.com/svg.image?u(x)=(1-|x|^m)_&plus;^s,&space;\qquad&space;m=\frac{p}{p-1}" title="u(x)=(1-|x|^m)_+^s, \qquad m=\frac{p}{p-1}" />
+
+<img src="https://latex.codecogs.com/svg.image?\mbox{for&space;any}&space;p>1,&space;\&space;s\in(0,1),\&space;x\in(-1,1).&space;" title="\mbox{for any} p>1, \ s\in(0,1),\ x\in(-1,1). " />
+
 
 The integrals are approximated by Gauss-Legendre quadrature formulas (see
 Reference  [2]) and the MATLAB function integral.m following the strategy given
