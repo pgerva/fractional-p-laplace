@@ -3,9 +3,9 @@
 This repository contains a MATLAB script, a MATALB app and the related
 functions to numerically compute 
 
-```math
-I^{(s,p)}(x)=\lim_{\varepsilon \to 0}\int_{(B_\varepsilon(x))^c} \frac{|(u(x)-u(y)|^{p-2}(u(x)-u(y))}{|x-y|^{1+sp}dy
-```
+
+\[I^{(s,p)}(x)=\lim_{\varepsilon \to 0}\int_{(B_\varepsilon(x))^c} \frac{|(u(x)-u(y)|^{p-2}(u(x)-u(y))}{|x-y|^{1+sp}dy\]
+ 
 and
 ```math
 (-\Delta_p)^su(x)=C_{s,p} I^{(s,p)}(x)
