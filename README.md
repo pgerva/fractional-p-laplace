@@ -1,5 +1,7 @@
 # Fractional p-Laplace calculator
 
+## A MATLAB tool for evaluating the fractional $p$-laplace operator in 1d domains.
+
 This repository contains a MATLAB script, a MATALB app and the related
 functions to numerically compute 
 
