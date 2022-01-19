@@ -12,5 +12,7 @@ but WITHOUT ANY WARRANTY.
 To refer this work,  cite:
 
 F. Colasuonno, F. Ferrari, P. Gervasio, and A. Quarteroni.
-"Some evaluations of the fractional p-Laplace operator on radial functions" (2021).  Preprint: https://arxiv.org/abs/2112.08239
+"Some evaluations of the fractional p-Laplace operator on radial functions" (2022).  
+Accepted for publication on Mathematics in Engineering.
+Preprint version: https://arxiv.org/abs/2112.08239
 
